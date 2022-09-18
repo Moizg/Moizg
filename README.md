@@ -1,7 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-global.website-files.com%2F5a5f79ce39acfc00012ed3b7%2F5ab2af37c69e9654b14245ad_5a8dad8bb7a50a0001e1f93c_ml_header.png&imgrefurl=https%3A%2F%2Fwww.csdisco.com%2Fblog%2Fdeep-learning-for-legal-technology-pt-2&tbnid=Z3QznLwDFAj94M&vet=12ahUKEwi77Zuzqp76AhXKwoUKHSMPAGEQMygbegUIARCKAg..i&docid=JfOr--MNLEhATM&w=1400&h=659&itg=1&q=coding%20header&client=firefox-b-d&ved=2ahUKEwi77Zuzqp76AhXKwoUKHSMPAGEQMygbegUIARCKAg)
 <h1 align="center">Hi 👋, I'm Moiz Ghazanfar</h1>
 <h3 align="center">A passionate university student from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwjV5ercqZ76AhXNg84BHUSOAukQMygDegUIARCVAg..i&docid=eJwGc00cw2HxkM&w=800&h=600&q=coding%20animated%20gif&client=firefox-b-d&ved=2ahUKEwjV5ercqZ76AhXNg84BHUSOAukQMygDegUIARCVAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizg&label=Profile%20views&color=0e75b6&style=flat" alt="moizg" /> </p>
 
