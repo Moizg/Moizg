@@ -1,8 +1,9 @@
 <h1 align="center">Hello 👋, I'm Moiz Ghazanfar</h1>
-<h3 align="center">A Developer with Imposter Syndrome and a Casual Gamer</h3>
+<h3 align="center">A CS Student interested in ML, DS, and AI</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: data analysis and machine learning projects<br><br>👥 I’m looking to collaborate on:<br><br>    AI and machine learning projects.<br><br>    Data science and analytics with Python.<br><br>🤝 I’m looking for help with: Best practices for AI model training and evaluation.<br><br>🌱 I’m currently learning: <br><br>    Advanced search algorithms (A*, UCS, Hill Climbing, etc.).<br><br>    Exploratory data analysis<br><br>    Compiler design and DFA construction.<br><br>💬 Ask me about: AI, Data Science<br><br>⚡ Fun fact: I'm a teacher as well :)
+🔭 I’m currently working on: data science and machine learning projects<br><br>👥 I’m looking to collaborate on:<br><br>    AI and machine learning projects.<br><br>    Data science with Python.<br><br>🤝 I’m looking for help with: Best practices for AI model training and evaluation.<br><br>🌱 I’m currently learning: <br><br>    Machine Learning.<br><br>
+<br><br>💬 Ask me about: AI, Data Science<br><br>⚡ Fun fact: I'm a teacher and Gamer as well :)
 
 
 ## 🌐 Socials:
